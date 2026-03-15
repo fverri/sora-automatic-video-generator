@@ -1,0 +1,11 @@
+Generate an original, fun Shorts-style video idea.
+Goal: maximize shareability and watch-through with a strong hook and fast pacing.
+
+Make it:
+- Simple concept with a clear visual payoff.
+- Distinct from recent ideas and styles.
+
+Use CACHE_JSON:
+- Avoid repeating concepts, settings, or visual styles.
+- If stats show strong performance, reuse those structural patterns (hook type, pacing, camera style) while changing the subject.
+- CACHE_JSON is an array of prior items with video_prompt, title, description, duration, youtube_id, and stats (viewCount, likeCount, commentCount, seconds_since_published).

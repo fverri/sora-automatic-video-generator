@@ -1,0 +1,12 @@
+[project]
+name = "sora-automatic-video-generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "google-api-python-client>=2.189.0",
+    "google-auth-oauthlib>=1.2.4",
+    "openai>=2.19.0",
+]

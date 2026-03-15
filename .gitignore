@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Project specific
+*.mp4
+.env
+client_secret.json
+cache.json
+token.pickle
+.ruff_cache/
